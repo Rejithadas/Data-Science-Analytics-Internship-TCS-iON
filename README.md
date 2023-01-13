@@ -1,4 +1,4 @@
-# Data-Science-Analytics
+# DATA SCIENCE AND ANALYTICS INTERNSHIP - TCS iON
 
 OBJECTIVE
 
